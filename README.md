@@ -1,5 +1,12 @@
 # Movilidad urbana y productividad económica en Latinoamérica (2024)
 
+
+## Cómo abrir el notebook en Google Colab
+
+Haz clic en el siguiente botón para abrir el proyecto en Google Colab.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yfnspectra-design/mobility-data-analysis/blob/main/Sprint_5_Analisis_de_Movilidad.ipynb)
+
 Proyecto de análisis exploratorio de datos (Sprint 5). Se estudia la relación entre los indicadores de movilidad urbana y el PIB per cápita de ciudades latinoamericanas para identificar posibles prioridades de inversión en infraestructura de transporte.
 
 ## Fuentes de datos
